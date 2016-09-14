@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="152809" started-at="2016-09-14T00:17:55Z" finished-at="2016-09-14T00:20:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="152809" started-at="2016-09-14T00:17:55Z" finished-at="2016-09-14T00:20:28Z">
+      <class name="mobile.demoApp.testA">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:mobile.demoApp.testA@2f5ca208]" name="startTest" is-config="true" duration-ms="48645" started-at="2016-09-14T02:17:55Z" finished-at="2016-09-14T02:18:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="dragdroptest()[pri:0, instance:mobile.demoApp.testA@2f5ca208]" name="dragdroptest" duration-ms="13720" started-at="2016-09-14T02:18:44Z" finished-at="2016-09-14T02:18:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragdroptest -->
+        <test-method status="PASS" signature="EndTest()[pri:0, instance:mobile.demoApp.testA@2f5ca208]" name="EndTest" is-config="true" duration-ms="2591" started-at="2016-09-14T02:18:58Z" finished-at="2016-09-14T02:19:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:mobile.demoApp.testA@2f5ca208]" name="startTest" is-config="true" duration-ms="46095" started-at="2016-09-14T02:19:00Z" finished-at="2016-09-14T02:19:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="homeMenutest()[pri:0, instance:mobile.demoApp.testA@2f5ca208]" name="homeMenutest" duration-ms="39131" started-at="2016-09-14T02:19:46Z" finished-at="2016-09-14T02:20:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeMenutest -->
+        <test-method status="PASS" signature="EndTest()[pri:0, instance:mobile.demoApp.testA@2f5ca208]" name="EndTest" is-config="true" duration-ms="2608" started-at="2016-09-14T02:20:25Z" finished-at="2016-09-14T02:20:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+      </class> <!-- mobile.demoApp.testA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
